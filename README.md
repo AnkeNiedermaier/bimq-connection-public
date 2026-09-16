@@ -39,8 +39,8 @@ and are created as new userdefined attributes, as long as the do not exist alrea
 <img src = "./docs/DefinitionTable_I.png" width = 800/><br/>
 <img src = "./docs/DefinitionTable_II.png" width = 800/><br/>
 
-<img src = "./docs/DefinitionAll_I.png" width = 400/>
-<img src = "./docs/DefinitionAll_II.png" width = 400/><br/>
+<img src = "./docs/DefinitionAll_I.png" width = 300/>
+<img src = "./docs/DefinitionAll_II.png" width = 300/><br/>
 
 ### for the assignment
 
@@ -50,8 +50,8 @@ The attribute that serves as identifyer and its appropriate values have to be as
 
 <img src = "./docs/AssignTable.png" width = 700/><br/>
 
-<img src = "./docs/AssignAll_I.png" width = 400/>
-<img src = "./docs/AssignAll_II.png" width = 400/><br/>
+<img src = "./docs/AssignAll_I.png" width = 300/>
+<img src = "./docs/AssignAll_II.png" width = 300/><br/>
 
 In addition, the parameters defined in the **IFC ...** column are taken over into the **IFC Entity** and **IFC PredefinedType** attributes in ALLPLAN
 
