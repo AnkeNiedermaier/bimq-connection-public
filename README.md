@@ -83,3 +83,15 @@ Besides the library, the PythonPart can also be found in the ActionBar in a newl
 ## Workflow
 In general, all installed PythonParts can be found in the Library palette, no matter if an additional ActionBar entry is created or not. They are started either with a **double-click** on the icon or per **Drag and Drop** into the viewport. This shows the corresponding Properties palette and executes the underlying skripts.
 
+The central part **General settings** at the top is relevant for each step and contains buttons and pulldowns to load the Excel file and select the relevant table sheet and phase or use case
+
+<img src = "./docs/PaletteSteps.png" width = 300/> 
+
+Similar to the complete workflow the lower part is divided into the three steps
+- **Definiton**
+- **Assignment**
+- **Mapping**
+
+which also contain buttons to set the relevant parameters. No matter which of them is executed, the **first step** always has to be **loading the Excel file**, as all the others rely on its information
+They can either be executed consecutively in one or separate from each other in individual workflows
+
