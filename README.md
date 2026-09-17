@@ -1,6 +1,6 @@
 # BimQ Connection
 
-The PythonPart enables the to take over model requiremtes mainly for object information and  attribute defined in **BimQ** in ALLPLAN. Most of the necessary steps can be executed more or less automatically:
+The PythonPart enables to take over model requiremtes mainly for object information and  attribute defined in **BimQ** into ALLPLAN. Most of the necessary steps can be executed more or less automatically:
 - **define** the required attributes
 - **assign** attributes to dedicated objects
 - **create** an adapted a **mapping table** for the IFC export
@@ -9,7 +9,7 @@ An additional filter allows the adoption of the attributes to the range needed f
 
 An **Excel file** from the **BimQ** platform exported with the **transfer mode ALLPLAN** serves as basis for the individual steps. It is usually delivered by the client.
 
-As this is a mandatory premise such file has to be available **before** running the PythonPart. It can be saved in an arbitrary folder and is selected during the runtime
+As this is a mandatory premise such a file has to be available **before** running the PythonPart. It can be saved in an arbitrary folder and is selected during the runtime
 
 ## Explanation of the table
 
